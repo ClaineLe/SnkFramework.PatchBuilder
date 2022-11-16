@@ -1,0 +1,16 @@
+{
+    "name": "SnkFramework.PatchBuilder.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2d32753ef0fa9459bbef1793c3e5f2ea"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
